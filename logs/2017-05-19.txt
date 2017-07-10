@@ -1,0 +1,45 @@
+Fri, 19 May 2017 17:04:37 base.py[line:152] WARNING Not Found: /favicon.ico
+Fri, 19 May 2017 17:04:41 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:04:41 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:04:41 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:04:41 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:06:54 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:06:54 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:06:54 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:06:54 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:07:29 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:07:30 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:07:30 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:07:30 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:07:52 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:07:52 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:07:52 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:07:52 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:08:17 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:08:17 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:08:17 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:08:17 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:08:33 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:08:34 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:08:34 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:08:34 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:08:51 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:08:51 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:08:51 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:08:51 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:09:13 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:09:14 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:09:14 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:09:14 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:09:27 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:09:28 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:09:28 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:09:28 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:09:46 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:09:46 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:09:46 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:09:47 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:10:16 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:10:16 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 19 May 2017 17:10:16 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 19 May 2017 17:10:16 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None

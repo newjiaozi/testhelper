@@ -1,0 +1,1 @@
+Mon, 19 Jun 2017 18:02:28 base.py[line:152] WARNING Not Found: /favicon.ico

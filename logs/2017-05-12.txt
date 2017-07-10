@@ -1,0 +1,4 @@
+Fri, 12 May 2017 16:59:57 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 12 May 2017 16:59:57 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 12 May 2017 16:59:57 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.3.1.6
+Fri, 12 May 2017 16:59:57 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None

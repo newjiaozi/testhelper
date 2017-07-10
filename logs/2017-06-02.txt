@@ -1,0 +1,17 @@
+Fri, 02 Jun 2017 09:51:14 base.py[line:152] WARNING Not Found: /favicon.ico
+Fri, 02 Jun 2017 09:51:19 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 09:51:19 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 09:51:19 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 09:51:19 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 17:03:39 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 17:03:39 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 17:03:39 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 17:03:39 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 17:03:41 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 17:03:41 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 17:03:41 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 17:03:41 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 17:18:23 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 17:18:30 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Fri, 02 Jun 2017 17:18:30 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Fri, 02 Jun 2017 17:18:30 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None

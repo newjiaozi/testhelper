@@ -1,0 +1,25 @@
+Wed, 31 May 2017 10:41:13 base.py[line:152] WARNING Not Found: /favicon.ico
+Wed, 31 May 2017 15:08:45 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 15:08:46 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Wed, 31 May 2017 15:08:46 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 15:08:46 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Wed, 31 May 2017 15:26:18 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 15:26:18 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Wed, 31 May 2017 15:26:18 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 15:26:18 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Wed, 31 May 2017 15:44:13 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 15:44:13 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Wed, 31 May 2017 15:44:13 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 15:44:13 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Wed, 31 May 2017 17:52:22 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 127.0.0.1
+Wed, 31 May 2017 17:52:22 connectionpool.py[line:395] DEBUG "POST http://server.sit.maiyafenqi.com/system/auth/login.json HTTP/1.1" 200 None
+Wed, 31 May 2017 17:52:31 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 127.0.0.1
+Wed, 31 May 2017 17:52:31 connectionpool.py[line:395] DEBUG "POST http://server.sit.maiyafenqi.com/system/redis/table.json HTTP/1.1" 200 None
+Wed, 31 May 2017 17:55:59 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 17:55:59 connectionpool.py[line:395] DEBUG "POST /system/auth/login.json HTTP/1.1" 200 None
+Wed, 31 May 2017 17:55:59 connectionpool.py[line:213] INFO Starting new HTTP connection (1): server.sit.maiyafenqi.com
+Wed, 31 May 2017 17:55:59 connectionpool.py[line:395] DEBUG "POST /system/redis/table.json HTTP/1.1" 200 None
+Wed, 31 May 2017 18:00:20 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 127.0.0.1
+Wed, 31 May 2017 18:00:20 connectionpool.py[line:395] DEBUG "POST http://server.sit.maiyafenqi.com/system/auth/login.json HTTP/1.1" 200 None
+Wed, 31 May 2017 18:00:29 connectionpool.py[line:213] INFO Starting new HTTP connection (1): 127.0.0.1
+Wed, 31 May 2017 18:00:29 connectionpool.py[line:395] DEBUG "POST http://server.sit.maiyafenqi.com/system/redis/table.json HTTP/1.1" 200 None

@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//TestHelper/settings.py=utf-8
+encoding//TestHelper/urls.py=utf-8
+encoding//resp/testdata.py=utf-8
+encoding//resp/urls.py=utf-8
+encoding//resp/views.py=utf-8
+encoding//webpage/createRepayByPhone.py=utf-8
+encoding//webpage/forms.py=utf-8
+encoding//webpage/tools.py=utf-8
+encoding//webpage/views.py=utf-8
+encoding//webpage/webpage.cfg=UTF-8
+encoding/<project>=UTF-8
