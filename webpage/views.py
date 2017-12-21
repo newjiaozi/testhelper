@@ -173,7 +173,7 @@ def imageBase64(request):
             ibforms_data = ibforms.cleaned_data           
             base64_text = ibforms_data.get("base64_text",None)
             image_data = base64.b64decode(base64_text)
-            tmp1_png = os.path.join(os.path.dirname(__file__),"media","webpage","tmp.png")
+            tmp1_png = os.path.join(os.path.dirname(__file__),"static","tmp.png")
             tmp1 = file(tmp1_png,"wb") 
             tmp1.write(image_data) 
             tmp1.close()

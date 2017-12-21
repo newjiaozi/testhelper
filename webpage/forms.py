@@ -44,8 +44,8 @@ class CreateRepaementForms(forms.Form):
 
 class CodisFlushForms(forms.Form):
     env_choice = (
-                  (['http://10.3.1.6:8081/system/redis/table.json',['http://10.3.1.6:8081/system/auth/login.json','admin','qwe123']],u'stb环境'),
-                  (['http://server.sit.maiyafenqi.com/system/redis/table.json',['http://server.sit.maiyafenqi.com/system/auth/login.json','admin','qwe123']],u'sit环境'),
+                  (['http://192.168.3.204:8080/system/redis/table.json',['http://192.168.3.204:8080/system/auth/login.json','ldl_admin','111111']],u'stb环境'),
+                  (['http://server.sit.maiyafenqi.com/system/redis/table.json',['http://server.sit.maiyafenqi.com/system/auth/login.json','ldl_admin','111111']],u'sit环境'),
                   (['http://server.pre.maiyafenqi.com/system/redis/table.html',['http://server.pre.maiyafenqi.com/system/auth/login.json','cuidongzhu','cdz-2256836']],u'pre环境'),
                   (['http://server.maiyafenqi.com/system/redis/table.json',['http://server.maiyafenqi.com/system/auth/login.json','cuidongzhu','cdz-2256836']],u'prd环境'),)
     
@@ -57,6 +57,7 @@ class CodisFlushForms(forms.Form):
                     ('ORD_USER_DETAIL','ORD_USER_DETAIL'),
                     ('ORD_USER_HONOR','ORD_USER_HONOR'),
                     ('ORD_AUTH_STATUS','ORD_AUTH_STATUS'),
+                    ('ORD_WITHDRAW_BALANCE','ORD_WITHDRAW_BALANCE'),
                     )
 
     
@@ -94,7 +95,7 @@ class ChangeMoneyForms(forms.Form):
     env_choice =((['cuidongzhu','cdz-2256836'],u"prd环境"),)
     env = forms.ChoiceField(label=u"环境",choices=env_choice)
     orderno = forms.CharField(label=u'订单编号')
-    principal = forms.IntegerField(label=u"金额",min_value=1,max_value=100)
+    principal = forms.IntegerField(label=u"金额",min_value=1,max_value=1000)
    
 class Params2DictForms(forms.Form):
     params = forms.CharField(widget=forms.Textarea,label=u"参数")  
@@ -102,7 +103,7 @@ class Params2DictForms(forms.Form):
     
     
 class GetRateUUIDForms(forms.Form):
-    env_choice = (([['http://10.3.1.6:8081/system/auth/login.json','admin','qwe123'],"http://server.stb.maiyafenqi.com/a/shop/rateTable/getShopRateHeaderList.json"],u"stb环境"),
+    env_choice = (([['http://192.168.3.204:8080/system/auth/login.json','admin','qwe123'],"http://server.stb.maiyafenqi.com/a/shop/rateTable/getShopRateHeaderList.json"],u"stb环境"),
                   ([['http://server.sit.maiyafenqi.com/system/auth/login.json','admin','qwe123'],"http://server.sit.maiyafenqi.com/shop/rateTable/getShopRateHeaderList.json"],u"sit环境"),
                   ([['http://server.pre.maiyafenqi.com/system/auth/login.json','cuidongzhu','cdz-2256836'],"http://server.pre.maiyafenqi.com/shop/rateTable/getShopRateHeaderList.json"],u"pre环境"),
                   ([['http://server.maiyafenqi.com/system/auth/login.json','cuidongzhu','cdz-2256836'],"http://server.maiyafenqi.com/shop/rateTable/getShopRateHeaderList.json"],u"prd环境"),)  
