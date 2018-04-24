@@ -18,7 +18,7 @@ Including another URLconf
 from django.conf.urls import url,include
 from django.contrib import admin
 import time,os,logging
-import settings
+
 
 today = time.strftime("%Y-%m-%d",time.localtime())
 par_dir =  os.path.abspath(os.path.join(os.path.dirname(__file__),os.path.pardir))
